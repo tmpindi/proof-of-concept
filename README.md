@@ -1,1 +1,1 @@
-# video-loop
+# proof-of-concept
